@@ -25,7 +25,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 82,Remove Duplicates from Sorted List II,36.8%,Medium,0.01297035044262745, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
 137,Single Number II,52.4%,Medium,0.012527567532662891, https://leetcode.com/problems/single-number-ii
 11,Container With Most Water,50.8%,Medium,0.012214824746492168, https://leetcode.com/problems/container-with-most-water
-300,Longest Increasing Subsequence,42.6%,Medium,0.011806512586989004, https://leetcode.com/problems/longest-increasing-subsequence
+300,Longest Increassing Subsequence,42.6%,Medium,0.011806512586989004, https://leetcode.com/problems/longest-increasing-subsequence
 987,Vertical Order Traversal of a Binary Tree,36.6%,Medium,0.011601058182762062, https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
 200,Number of Islands,46.8%,Medium,0.011509262420590827, https://leetcode.com/problems/number-of-islands
 55,Jump Game,34.6%,Medium,0.011265609194218986, https://leetcode.com/problems/jump-game
