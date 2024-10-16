@@ -11,7 +11,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 986,Interval List Intersections,67.3%,Medium,1.1614184250843902, https://leetcode.com/problems/interval-list-intersections
 361,Bomb Enemy,46.0%,Medium,1.1535711729488671, https://leetcode.com/problems/bomb-enemy
 773,Sliding Puzzle,59.3%,Hard,1.1105884797148253, https://leetcode.com/problems/sliding-puzzle
-655,Print Binary Tree,55.0%,Medium,1.0605315351500602, https://leetcode.com/problems/print-binary-tree
+655,Print Binary Tree,55.0%,Medium,1.0605315351500602, https://leetcode.com/problems/print-binary-trees
 68,Text Justification,27.7%,Hard,1.0274647299045185, https://leetcode.com/problems/text-justification
 428,Serialize and Deserialize N-ary Tree,59.4%,Hard,0.9486721413771949, https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree
 253,Meeting Rooms II,45.7%,Medium,0.818674101923242, https://leetcode.com/problems/meeting-rooms-ii
